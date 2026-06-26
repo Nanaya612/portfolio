@@ -21,7 +21,7 @@
         "projeto_descricao": 
             {
                 "objetivo": "Essa Aplicação foi feita com o objetivo de simular um layout de blog com temática de pesca. Nela é possivel navegar entre Posts fictícios e filtrar eles por Em Alta e Novos Post",
-                "processo": "Para a criação dessa Aplicação eu usei Next.js com a funcionalidade do App Router. A ideia era aprender na pratica como funciona o sistema de Rotas Dinâmicas do Next.js, então cada Post do blog usa esse sistema para exibir as informações completas do Post. Também, para entender melhor os conceitos de CLI foi usado o GitHub Actions para CI e CD do projeto com Deploy automatico no Vercel. Por fim, resolvi experimentar ferramentas de testes para asegurar funcionamento correto da Aplicação, então usei a biblioteca do Jest e Testing Library.",
+                "processo": "Para a criação dessa Aplicação eu usei Next.js com a funcionalidade do App Router. A ideia era aprender na pratica como funciona o sistema de Rotas Dinâmicas do Next.js, então cada Post do blog usa esse sistema para exibir as informações completas do Post. Também, para entender melhor os conceitos de CLI foi usado o GitHub Actions para CI e CD do projeto com Deploy automatico no Vercel. Por fim, resolvi experimentar ferramentas de testes para assegurar funcionamento correto da Aplicação, então usei a biblioteca do Jest e Testing Library.",
                 "tecnologias": "As tecnologias usadas no projeto se resumem em: React, Next.js, TypeScript, JavaScript, CSS, HTML, Vercel, GitHubActions, Testing Library, Jest."
             },
         "projeto_img": 

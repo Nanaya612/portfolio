@@ -1,0 +1,51 @@
+[
+    {
+        "projeto_nome": "To do List",
+        "projeto_slug": "to_do_list",
+        "projeto_descricao": 
+            {
+                "objetivo": "Essa Aplicação foi feita com o objetivo de montar uma lista de tarefas, porém com as funcionalidades de Login e filtro para tarefas marcadas como concluidas ou não concluidas.",
+                "processo": "No processo para criar essa Aplicação eu quis utilizar React com Vite e, para experimentar novas funcionalidades, eu decidi implementar o sistema do localStorage e a biblioteca do Recoil. Um para armazenar as tarefas para que não sejam perdidas ao fechar a página e outro para manusear contextos pela aplicação.",
+                "tecnologias": "As tecnologias usadas no projeto se resumem em: React, JavaScript, HTML, CSS, Biblioteca do Recoil."
+            },
+        "projeto_img": 
+                    {
+                        "img1": {"path":"IMG/todolist_1.png", "w":1014, "h":332},
+                        "img2": {"path":"IMG/todolist_2.png", "w":1017, "h":535}
+                    },
+        "projeto_link": "https://github.com/Nanaya612/ToDoListApp"
+    },
+    {
+        "projeto_nome": "Blog Pescaria",
+        "projeto_slug": "blog_pescaria",
+        "projeto_descricao": 
+            {
+                "objetivo": "Essa Aplicação foi feita com o objetivo de simular um layout de blog com temática de pesca. Nela é possivel navegar entre Posts fictícios e filtrar eles por Em Alta e Novos Post",
+                "processo": "Para a criação dessa Aplicação eu usei Next.js com a funcionalidade do App Router. A ideia era aprender na pratica como funciona o sistema de Rotas Dinâmicas do Next.js, então cada Post do blog usa esse sistema para exibir as informações completas do Post. Também, para entender melhor os conceitos de CLI foi usado o GitHub Actions para CI e CD do projeto com Deploy automatico no Vercel. Por fim, resolvi experimentar ferramentas de testes para asegurar funcionamento correto da Aplicação, então usei a biblioteca do Jest e Testing Library.",
+                "tecnologias": "As tecnologias usadas no projeto se resumem em: React, Next.js, TypeScript, JavaScript, CSS, HTML, Vercel, GitHubActions, Testing Library, Jest."
+            },
+        "projeto_img": 
+                    {
+                        "img1": {"path":"IMG/blogpescaria_1.png", "w":1171, "h":634},
+                        "img2": {"path":"IMG/blogpescaria_2.png", "w":1080, "h":639}
+                    },
+        "projeto_link": "https://github.com/Nanaya612/blogpescaria"
+    },
+    {
+        "projeto_nome": "Previsão Temporal",
+        "projeto_slug": "previsao_temporal",
+        "projeto_descricao": 
+            {
+                "objetivo": "Essa Aplicação foi feita com o objetivo de mostrar informações sobre a previsão do tempo de uma cidade específica. Ela apresenta uma lista de cidades onde cada uma leva para uma página monstrando a previsão temporal do dia naquela cidade.",
+                "processo": "No processo de criação dessa aplicação eu usei o Next.js com o App Router. Para essa Aplicação, a ideia é implementar funcionalidades como API externas, estruturar a aplicação por meio de rotas dinâmicas e experimentar metodos de deploy com a ferramenta do Vercel.",
+                "tecnologias": "As tecnologias usadas no projeto se resumem em: React, Next.js, TypeScript, JavaScript, CSS, HTML, Vercel."
+            },
+        "projeto_img": 
+                    {
+                        "img1": {"path":"IMG/previsaotemporal_1.png", "w":828, "h":505},
+                        "img2": {"path":"IMG/previsaotemporal_2.png", "w":890, "h":903}
+                    },
+        "projeto_link": "https://github.com/Nanaya612/previsao-temporal"
+        
+    }
+]

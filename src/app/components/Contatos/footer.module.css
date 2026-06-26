@@ -1,0 +1,19 @@
+.footer{
+    background-color: var(--bg-color-page);
+    color: var(--text-color-page);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 10px -5px 10px -5px var(--bs-color);
+    padding: 0.5rem;
+    transition: background-color var(--trans-thema) ease, color var(--trans-thema) ease;
+}
+.footer_link{
+    text-decoration: none;
+    color: var(--link-color)
+}
+.footer_link:hover{
+    text-decoration: underline;
+    transform: scale(1.15);
+    transition: transform 0.3s ease;
+}
